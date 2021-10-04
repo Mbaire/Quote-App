@@ -2,6 +2,7 @@
 
 ## Author
  Mary Miringu
+ 
 ## Description
  This is an app that enables users to post and view quotes that have been sampled over time. More so,the users can either vote for their favorite quotes, or delete those that they dislike.
 ## Setup/Installation Requirements
