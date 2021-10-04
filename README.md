@@ -1,4 +1,4 @@
-# QuotesApp
+## QuotesApp
 
 ## Author
  Mary Miringu
