@@ -1,0 +1,18 @@
+<div>
+  <div>
+    Author:<span id="author"> {{ quote.author }}</span
+    >, Created By:<span id="creater"> {{ quote.creater }}</span
+    >
+  </div>
+  <div>
+    <button (click)="like(true)" (click)="quoteWithHighestVotes()">
+      upvote {{ quote.upvotes }}
+    </button>
+    <button (click)="like(false)">downvote {{ quote.downvotes }}</button>
+  </div>
+  <div>
+    <button (click)="deleteQuote(true)" class="btn btn-outline-danger">
+      Delete
+    </button>
+  </div>
+</div>
