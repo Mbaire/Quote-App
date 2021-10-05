@@ -28,7 +28,7 @@ The following languages have been used to develop the project:
 No known bugs.
 
 ## Deployment
-This is the live link to the project: <a href=""> Quote-app</a>
+This is the live link to the project: <a href="https://mbaire.github.io/Quote-app/"> Quote-app</a>
 
 ### License
 This project is under [MIT](https://choosealicense.com/licenses/mit/) &COPY; 2021 All Rights Reserved.
